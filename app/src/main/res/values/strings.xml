@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Login and Landing page</string>
+    <string name="password">Password</string>
+    <string name="Username">Username</string>
+    <string name="LoginBtn">Login</string>
+<!--    Main2Activity Values-->
+    <string name="DisplayInfo"></string>
+</resources>
